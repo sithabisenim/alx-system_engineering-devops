@@ -1,2 +1,5 @@
 #!/bin/bash
 chmod a+x */
+[master eb00e20] Task 11
+ 2 files changed, 5 insertions(+)
+ create mode 100755 0x01-shell_permissions/11-directories_permissions
